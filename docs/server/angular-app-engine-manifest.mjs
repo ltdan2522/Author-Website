@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Author-Website',
+  basePath: '/',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""

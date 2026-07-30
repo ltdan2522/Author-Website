@@ -1,8 +1,8 @@
 {
   "routes": {
-    "/Author-Website/AboutMe": {},
-    "/Author-Website/Books": {},
-    "/Author-Website/Home": {},
-    "/Author-Website/ShortStories": {}
+    "/AboutMe": {},
+    "/Books": {},
+    "/Home": {},
+    "/ShortStories": {}
   }
 }
